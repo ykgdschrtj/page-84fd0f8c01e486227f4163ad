@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3b0435d52e7f4a06ec2dc02b",
+  "owner": "ykgdschrtj",
+  "repo": "page-84fd0f8c01e486227f4163ad",
+  "title": "菲菲云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "84fd0f8c01e486227f4163ad",
+      "a": "菲菲云",
+      "b": "机场官网线路发布页",
+      "entity": "菲菲云",
+      "brand": "菲菲云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3eaece6d168ba8df683e7c23dd500a0aed85f80d2d5943296c65b5b52b9dcd17",
+      "content": {
+        "primary_entity": "菲菲云",
+        "keyword1": "菲菲云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，菲菲云提供基础版、旗舰版和团队版三档订阅，分别对应每月100GB、300GB和1000GB流量，并支持3台、5台和20台设备在线。旗舰版与团队版加入IPLC专线及原生流媒体解锁，用户可按设备数量、流量需求与预算选择月付或年付方案。",
+          "AI_HERO_SUBTITLE": "多档流量按需选择，适配设备数量",
+          "AI_HERO_INTRO": "菲菲云面向需要稳定海外加速的用户，提供基础版、旗舰版和团队版订阅。每档方案在流量额度、设备数量和节点能力上有所区分，适合个人多设备或小团队协作场景使用。",
+          "AI_VISUAL_TITLE": "菲菲云订阅面板",
+          "AI_HIGHLIGHT_1": "基础版月付15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版月付35元含300GB流量",
+          "AI_HIGHLIGHT_3": "团队版月付85元含1000GB流量",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量与订阅周期三个角度整理菲菲云的套餐特点。",
+          "AI_FEATURE_TITLE_1": "按流量分档",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，月度用量不同可对应选择。",
+          "AI_FEATURE_TITLE_2": "设备数量宽松",
+          "AI_FEATURE_TEXT_2": "分别支持3台、5台和20台设备同时在线，覆盖手机、电脑和团队协作。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器各有适配客户端，可依设备类型选择订阅导入方式。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体和游戏加速，团队版适合多人共享高带宽。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "按三步完成套餐选择、适配确认和订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据月流量与在线设备数量，从基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统、客户端类型与所选方案支持的节点线路是否匹配。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按文档填写参数并保存生效。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "菲菲云套餐可以月付和年付吗？",
+          "AI_FAQ_ANSWER_1": "可以。基础版月付15元，年付150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。",
+          "AI_FAQ_QUESTION_2": "同一账号最多能在几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台，按所选套餐限制。",
+          "AI_FAQ_QUESTION_3": "订阅链接如何在客户端导入？",
+          "AI_FAQ_ANSWER_3": "复制订阅地址，打开对应客户端找到订阅或配置导入入口，粘贴后保存并更新节点列表即可。",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了哪些功能？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量提升至300GB，设备数增至5台，增加全节点原生流媒体解锁和IPLC专线游戏加速优化。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量和20台设备在线，适合多人共用高带宽节点或需要企业定制路由的场景。",
+          "AI_CLOSING_TITLE": "选对套餐更顺手",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量，在菲菲云三档方案中选定月付或年付。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bn8z4d.cn",
+    "host": "bn8z4d.cn"
+  },
+  "file_hashes": {
+    "index.html": "f0e5735bde8255b23d09888fc83627f429e4fc0b7c5a3838f4b17ccdb46ee000",
+    "sitemap.xml": "06b378593f2d00fa51d26a09a941c297435af9c128db2d01d0b32aeb7849f164",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f8168b902de800b111b634f24aa8ac8f8a54eff9c97df0f1d8a2fef96911886",
+    "robots.txt": "54746d0c5d23e18e2fbbc6bcc092886c963f40ebdb441d9e9db9b947204080da",
+    "4beb446095a2cbc6938324c1db9433b4.txt": "3a0e53b7b0b73b468e54a2c4d280abfa947c90f02054121396ec6f5a329c22bb"
+  },
+  "revision": "fda05c370202c8c309db723e78ce615bc4617555803ac6a8fcdf4858b519858b"
+}
